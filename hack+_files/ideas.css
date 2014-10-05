@@ -1,0 +1,25 @@
+/* line 1, ../../app/assets/stylesheets/ideas.css.scss */
+.ideas {
+  font-family: "Corbel";
+  font-size: 15px;
+}
+
+/* line 6, ../../app/assets/stylesheets/ideas.css.scss */
+.idea {
+  padding: 20px;
+  text-align: justify;
+  border: #CCCCCC 1px solid;
+  margin-right: 5px;
+  margin-bottom: 30px;
+  box-shadow: 5px 5px 5px #CCCCCC;
+}
+
+/* line 15, ../../app/assets/stylesheets/ideas.css.scss */
+.idea h3 {
+  text-align: left;
+}
+
+/* line 19, ../../app/assets/stylesheets/ideas.css.scss */
+.idea p {
+  margin-top: 10px;
+}

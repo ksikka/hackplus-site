@@ -1,0 +1,11 @@
+/* line 1, ../../app/assets/stylesheets/sponsors.css.scss */
+h2 {
+  margin-left: default;
+  margin-right: default;
+}
+
+/* line 6, ../../app/assets/stylesheets/sponsors.css.scss */
+.sponsor-image {
+  margin: auto;
+  text-align: center;
+}

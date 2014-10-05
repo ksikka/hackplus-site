@@ -1,0 +1,61 @@
+/* line 1, ../../app/assets/stylesheets/schedule.css.scss */
+.schedule {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 6, ../../app/assets/stylesheets/schedule.css.scss */
+.eventList {
+  text-align: justify;
+  border: #CCCCCC 1px solid;
+  box-shadow: 5px 5px 5px #CCCCCC;
+}
+
+/* line 12, ../../app/assets/stylesheets/schedule.css.scss */
+.event {
+  min-height: 45px;
+  overflow: hidden;
+  border-bottom: #CCCCCC 1px solid;
+  padding: 5px;
+  text-align: left;
+}
+
+/* line 20, ../../app/assets/stylesheets/schedule.css.scss */
+.eventOpened {
+  min-height: 45px;
+}
+
+/* line 24, ../../app/assets/stylesheets/schedule.css.scss */
+.evenRow {
+  background-color: white;
+}
+
+/* line 28, ../../app/assets/stylesheets/schedule.css.scss */
+.oddRow {
+  background-color: #E1EDF2;
+}
+
+/* line 32, ../../app/assets/stylesheets/schedule.css.scss */
+.downArrow {
+  width: 0;
+  height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 7px solid #CCCCCC;
+  font-size: 0;
+  line-height: 0;
+  margin-right: 10px;
+}
+
+/* line 43, ../../app/assets/stylesheets/schedule.css.scss */
+.desc {
+  display: none;
+  /* height: 0px;
+  overflow: hidden; */
+}
+
+/* line 49, ../../app/assets/stylesheets/schedule.css.scss */
+h3 {
+  text-align: left;
+  margin-left: 10px;
+}
