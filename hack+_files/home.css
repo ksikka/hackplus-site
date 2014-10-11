@@ -27,6 +27,7 @@ ul.project-list li {
 }
 
 ul.project-list li h3 {
+  text-align:left;
   line-height:1em;
   margin-bottom:7px;
 }
